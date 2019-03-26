@@ -1,0 +1,2 @@
+# seaword
+just another repository
